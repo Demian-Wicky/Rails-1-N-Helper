@@ -1,4 +1,4 @@
-# Rails N-N Helper
+# Rails 1-N Helper
 
 A Ruby program made to help you create 1-N database relationships in Ruby On Rails.
 <br><br>
